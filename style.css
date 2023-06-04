@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+    padding: 15px;
+    background-color: rgb(249, 255, 248);
+}
+
+header {
+    background-image: linear-gradient(rgb(34, 153, 34),white);
+    height: 60px;
+    font-size: 25px;
+    padding-top: 10px;
+    
+
+    
+}
+a {
+    margin: 40px;
+
+}
+h1 {
+    color: rgb(9, 134, 30);
+}
+.link-header {
+    color: black;
+}
+.link-nav{
+    color: black;
+}
+.social{
+    box-shadow: 6px 8px 5px 5px green;
+}
